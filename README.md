@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mohan 👋
 
-<!--
-**MohanPrasand/MohanPrasand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Applied Research Scientist** working on ML systems, storage,
+GPU computing, and backend infrastructure.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **ML Systems** — LLM inference, model serving, embeddings, quantization
+- ⚙️ **Systems** — Rust, concurrency, memory management, networking
+- 💾 **Storage** — LSM-Trees, B-Trees, MVCC, WAL, crash recovery
+- 🚀 **GPU Computing** — CUDA, Metal, SIMD
+- 🔐 **Backend** — Authentication, authorization, multi-tenancy, distributed systems
+
+### Languages & Tools
+
+`Rust` `Python` `C` `C++` `Java` `SQL` `CUDA` `Metal`
+
+### Outside work
+
+I enjoy building systems from scratch to understand what happens
+beneath the abstractions — storage engines, networking systems,
+real-time applications, and low-level software.
+
+[LinkedIn](https://www.linkedin.com/in/mohan-prasand/)
